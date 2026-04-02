@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="alarms_title">내 알람</string>
+    <string name="add_alarm">알람 추가</string>
+    <string name="alarm_title_hint">알람 제목</string>
+    <string name="pick_date">날짜 선택</string>
+    <string name="pick_time">시간 선택</string>
+    <string name="save">저장</string>
+    <string name="cancel">취소</string>
+    <string name="delete_alarm_title">알람 삭제</string>
+    <string name="delete_alarm_message">이 알람을 삭제할까요?</string>
+    <string name="delete">삭제</string>
+    <string name="empty_alarms">설정된 알람이 없어요.\n아래 버튼으로 추가해 보세요.</string>
+    <string name="past_time_error">미래 시각을 선택해 주세요.</string>
+    <string name="notification_channel_name">알람</string>
+    <string name="notification_channel_desc">설정한 시각에 알려 드려요.</string>
+    <string name="remaining_soon">곧 울려요</string>
+    <string name="remaining_done">지난 알람</string>
+    <string name="date_time_unset">선택 안 함</string>
+</resources>

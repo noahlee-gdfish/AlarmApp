@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.AlarmApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/warm_primary</item>
+        <item name="colorOnPrimary">@color/warm_on_primary</item>
+        <item name="colorPrimaryContainer">@color/warm_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/warm_on_surface</item>
+        <item name="colorSecondary">@color/warm_secondary</item>
+        <item name="colorSurface">@color/warm_surface</item>
+        <item name="colorOnSurface">@color/warm_on_surface</item>
+        <item name="colorOnSurfaceVariant">@color/warm_on_surface_variant</item>
+        <item name="colorOutline">@color/warm_outline</item>
+        <item name="android:colorBackground">@color/warm_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.AlarmApp.Small</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.AlarmApp.Medium</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.AlarmApp.Large</item>
+    </style>
+</resources>

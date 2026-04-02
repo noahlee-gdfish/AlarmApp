@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="warm_bg">#1C1614</color>
+    <color name="warm_surface">#2A221F</color>
+    <color name="warm_surface_variant">#3D322E</color>
+    <color name="warm_primary">#E8A090</color>
+    <color name="warm_primary_container">#5C3D36</color>
+    <color name="warm_on_primary">#3D1A14</color>
+    <color name="warm_secondary">#D4B896</color>
+    <color name="warm_on_surface">#F5E8E3</color>
+    <color name="warm_on_surface_variant">#C9B8B2</color>
+    <color name="warm_outline">#6D5E58</color>
+    <color name="warm_accent_soft">#A67B6E</color>
+    <color name="warm_remaining">#FFB4A0</color>
+</resources>
